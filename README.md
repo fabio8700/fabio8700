@@ -36,7 +36,7 @@ Me chamo Fabio Silva Santana, tenho 37 anos e sou formado em Análise e Desenvol
     align="left" 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio8700&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio8700&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 </p>
 
@@ -47,6 +47,7 @@ Me chamo Fabio Silva Santana, tenho 37 anos e sou formado em Análise e Desenvol
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS)
 - 🔁 Transição de carreira com experiência em logística e varejo
 - 🚀 Foco em **JavaScript** e tecnologias de **back-end**
+- 📚 Estudando ativamente **Node.js**, **React**, **HTML** e **CSS**
 - 💡 Buscando a primeira oportunidade profissional em tecnologia
 - 🤝 Comprometido com aprendizado contínuo e boas práticas
 
