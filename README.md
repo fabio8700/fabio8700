@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Fabio Silva Santana
 
-**`Desenvolvedor Back-End em Formação`**
+**`Desenvolvedor Back-End`**
 
 Me chamo Fabio Silva Santana, tenho 37 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Estácio. Estou em transição de carreira para a área de tecnologia, após anos de experiência nos setores de logística e varejo. Atualmente, estou focado em aprender e praticar **JavaScript**, com o objetivo de me tornar um **desenvolvedor back-end**. Busco minha primeira oportunidade profissional na área de tecnologia, contribuindo com dedicação, aprendizado contínuo e responsabilidade.
 
