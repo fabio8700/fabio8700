@@ -8,15 +8,14 @@ Me chamo Fabio Silva Santana, tenho 37 anos e sou formado em Análise e Desenvol
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<div style="display: flex; flex-wrap: wrap;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" title="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="30" title="Express"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" title="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30" title="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30" title="Linux"/>
+**Back-End Developer | JavaScript | Node.js | React | HTML | CSS**
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3"/>
 </div>
 
 <br/>
@@ -55,5 +54,5 @@ Me chamo Fabio Silva Santana, tenho 37 anos e sou formado em Análise e Desenvol
 
 ### 🌐 Vamos nos conectar!
 
-[![GitHub](https://img.shields.io/badge/GitHub-fabio8700-181717?style=for-the-badge&logo=github)](https://github.com/fabio8700)
+[![GitHub](https://img.shields.io/badge/GitHub-fabio8700-181717?style=for-the-badge&logo=github)](https://github.com/fabio8700)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffabiosantanadev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ffabiosantanadev/)
